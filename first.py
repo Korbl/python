@@ -1,5 +1,5 @@
 # Import the modules
-# live update
+# http://codr.io
 
 import sys
 import random
