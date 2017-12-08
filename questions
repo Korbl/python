@@ -1,0 +1,27 @@
+
+
+True or True =
+
+False and True =
+
+True and False = 
+
+False or False = 
+
+False or True = 
+
+
+If 5 > 8:
+  print 1
+else:
+  print 2
+  
+  
+foo = 6
+
+if foo != 3+3:
+  print 1
+elsif foo < 9:
+  print 2
+else:
+  print 3
