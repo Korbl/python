@@ -1,5 +1,5 @@
 """
-script to test polling the daoc api
+script to test polling the daoc api. 
 """
 
 import json
