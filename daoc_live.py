@@ -1,3 +1,7 @@
+"""
+script to test polling the daoc api
+"""
+
 import json
 import urllib.request
 import discord
